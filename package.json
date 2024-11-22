@@ -9,11 +9,15 @@
     "license": "ISC",
     "description": "",
     "dependencies": {
+        "18": "0.0.0",
         "axios": "^1.7.7",
         "body-parser": "^1.20.3",
+        "crypto": "^1.0.1",
         "express": "^4.21.1",
-        "jsonwebtoken": "^9.0.2",
-        "jwt-server": "file:",
-        "test_nod": "file:"
+        "firebase-admin": "^13.0.1",
+        "google-auth-library": "^7.14.0",
+        "googleapis": "^144.0.0",
+        "jsonwebtoken": "^9.0.0",
+        "jwt-server": "file:"
     }
 }
